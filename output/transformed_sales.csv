@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,quantity,order_date,customer_name,city,product_name,category,price,total_sales
+1001,101,201,1,2026-01-10,Rahul,Pune,Laptop,Electronics,55000,55000
+1002,102,202,2,2026-01-11,Amit,Mumbai,Mobile,Electronics,25000,50000
+1003,103,203,3,2026-01-12,Priya,Nashik,Chair,Furniture,3000,9000
+1004,104,204,4,2026-01-13,Neha,Aurangabad,Table,Furniture,5000,20000
+1005,105,205,5,2026-01-14,Karan,Pune,Desk,Furniture,7000,35000
